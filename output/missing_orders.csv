@@ -1,0 +1,21 @@
+Transaction_ID,Transaction_Date,Product_Category,Purchase_Amount_x,Purchase_Amount_y,_merge
+19736,19-03-2023,Grocery,809.05,,left_only
+36418,11-06-2023,Sports,587.31,,left_only
+7003,09-03-2024,Books,985.72,,left_only
+7707,04-07-2024,Books,715.17,,left_only
+31419,14-04-2024,Electronics,973.41,,left_only
+26311,28-10-2023,Beauty,790.3,,left_only
+37552,06-04-2024,Grocery,732.74,,left_only
+2522,07-09-2023,Toys,195.65,,left_only
+46834,07-06-2023,Home & Kitchen,824.4,,left_only
+31627,25-04-2024,Books,280.97,,left_only
+504,01-10-2023,Beauty,782.24,,left_only
+2368,15-05-2023,Sports,980.72,,left_only
+19735,22-10-2024,Clothing,550.48,,left_only
+43134,27-01-2024,Electronics,907.01,,left_only
+15841,12-11-2023,Home & Kitchen,325.74,,left_only
+28937,02-05-2023,Clothing,824.91,,left_only
+5008,13-02-2024,Grocery,67.93,,left_only
+37368,11-12-2024,Electronics,46.78,,left_only
+44024,27-01-2024,Sports,620.58,,left_only
+321,11-10-2024,Sports,481.06,,left_only
